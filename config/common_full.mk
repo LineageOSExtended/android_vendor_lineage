@@ -17,7 +17,3 @@ PRODUCT_PACKAGES += \
     fonts_customization.xml \
     FontLatoOverlay \
     FontRubikOverlay
-
-# Recorder
-PRODUCT_PACKAGES += \
-    Recorder
